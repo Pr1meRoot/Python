@@ -1,4 +1,4 @@
-"""
+
 a = 3
 b = 7
 print(a>b)
@@ -149,8 +149,7 @@ if grade>=1 and grade<=5:
     elif grade==5:
         print("Great")
 else:
-    print("1-5")
-"""
+    print("1-5")
 
 n = int(input("Enter the number: "))
 ntwo = int(input("Enter the number: "))
